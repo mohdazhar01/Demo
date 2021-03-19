@@ -1,0 +1,10 @@
+Each change of in file or group of file create the new verion OF APPLICATION.
+
+Verion Control SytemS (VCS)
+haha
+
+GIT;
+track the changes 
+allow developers to merge code
+
+G
